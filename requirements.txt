@@ -1,0 +1,5 @@
+# Install the appropriate PyTorch build first; see README.md.
+torch==2.14.1
+torchvision==0.29.1
+Pillow==13.0.0
+streamlit==1.67.0
